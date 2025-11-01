@@ -1,0 +1,5 @@
+Swaraj, 85, A
+Ananya, 72, B
+Rohit, 91, A
+Meera, 68, C
+Aarav, 78, B
